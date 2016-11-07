@@ -1,0 +1,25 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: Roboto;
+	font-size: 16px;
+	font-size: 1.6rem;
+}
+
+/* Header */
+header {
+	background-color: #fa0;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+.subtitle {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
