@@ -10,6 +10,7 @@ body {
 
 /* Header */
 header {
+	width: 100%;
 	background-color: #fa0;
 	padding-top: 20px;
 	padding-bottom: 10px;
@@ -22,4 +23,19 @@ h1 {
 .subtitle {
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+
+/* Main area */
+main {
+	padding-top: 20px;
+}
+
+.card {
+	border: 1px lightgrey solid;
+	margin-bottom: 20px;
+}
+
+.card img {
+	width: 100%;
 }
